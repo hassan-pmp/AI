@@ -29,3 +29,11 @@
 Human judgment, ethics, business context, and oversight remain essential.
 - The best outcomes come from Human + AI collaboration, where AI provides insights and humans provide experience, governance, and decision-making.
 - AI empowers project professionals to plan more intelligently, deliver more adaptively, manage risk proactively, and create greater business value while keeping humans responsible for decisions, ethics, and oversight.
+- This lesson reinforces that AI supports nearly every PMI performance domain by enhancing—not replacing—professional judgment:
+  - Planning → Better forecasting and evidence-based decisions
+  - Delivery → Adaptive execution and dynamic prioritization
+  - Risk Management → Early detection and proactive mitigation
+  - Stakeholder Management → Improved communication and collaboration
+  - Value Delivery → More customer-centric and outcome-focused solutions
+  -Leadership → Human accountability, ethics, and governance remain indispensable
+- 
