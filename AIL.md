@@ -36,4 +36,10 @@ Human judgment, ethics, business context, and oversight remain essential.
   - Stakeholder Management → Improved communication and collaboration
   - Value Delivery → More customer-centric and outcome-focused solutions
   -Leadership → Human accountability, ethics, and governance remain indispensable
+- How AI supports planning: AI helps teams spot trends, forecast outcomes, and identify risks earlier.
+- How AI supports delivery: AI detects issues early, routes work intelligently, and helps teams stay aligned.  
+- How AI supports value creation: AI enables solutions that are more personalized, relevant, and responsive.
+- A **Mental Model** gives you a way to makes a sense of AI work before decision are made, to understand whether AI is actually needed, and how it fits the problem you are trying to solve.
 - 
+
+
