@@ -1,10 +1,12 @@
 # AI
 ## TODO
 ## Milestone
-* **Publish a sceintefic article about Agile -2024** ✅ https://ieeexplore.ieee.org/abstract/document/10754961
-* **Publish a sceintefic article -2025** ✅ https://onlinelibrary.wiley.com/doi/10.1002/047134608X.W8453?utm_medium=article&utm_source=researchgate.net
-* **Scrum Master II Certification** ✅ 
-* **Agile Leadership Practitioner Certificate** ✅ 
+* ☐ Complete Google Cloud Generative AI Leader certification.
+* ☐ Complete Google Cloud Generative AI Engineer certification.
+* ☐ Publish 100 AI learning notes on GitHub.
+* ☐ Publish an IEEE Computer Society article on AI.
+* ☐ Publish 2 high-impact research papers on AI.
+* ☐ Write a book on AI, leadership, and project management.
 ## These are so *Important*
 * Sharing is Caring.
 * Fail Early, Fail Fast, Fail Often.
