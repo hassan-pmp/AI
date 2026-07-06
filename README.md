@@ -1,6 +1,6 @@
 # AI
 ## TODO
-## Milestone
+## Milestones
 * **☐ Complete Google Cloud Generative AI Leader certification**
 * **☐ Complete Google Cloud Generative AI Engineer certification**
 * **☐ Publish 100 AI learning notes on GitHub**
