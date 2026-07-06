@@ -71,7 +71,36 @@ Human judgment, ethics, business context, and oversight remain essential.
       - Vendor claims being hard to assess, making it difficult to determine real value
       - Selecting tools that don’t match the team’s data, workflows, or needs
       - Undisclosed human‑in‑the‑loop steps creating privacy and governance issues
-- 
+- Seven Patterns of AI
+  - The Recognition Pattern
+  - The Conversation & Human Intraction Pattern
+  - The Predictive analytics & Decisions Pattern
+  - The Patternd & Anomalies Pattern
+  - The Hyperpersonalization Pattern
+  - The Goal-Driven Systems Pattern
+  - The Autonomous Systems Pattern
+ 
+- The 6 phases in an AI project
+  - Business Undestanding
+    - Define the problem. Clarify goals. Determine whether AI is the right solution. This phase ensures alignment between business needs and technical direction, starting with identifying the most relevant pattern of AI for the problem you’re solving. It sets expectations early and prevents wasted effort.
+    
+  - Data Understanding
+    - Explore the data landscape: What data exists? Is it accessible? Does it reflect the real-world context of the problem? Strengthening data governance practices early can help avoid surprises downstream.
+    - This phase helps teams identify data limitations early and make adjustments as needed. 
+  - Data Preparation
+    - Prepare the data for modeling. This includes cleaning, labeling, standardizing, and deduping as needed. Data quality has a direct impact on model performance. Remember: garbage in is garbage out. Investing time here reduces downstream risk.
+ 
+  - Model Development
+    - Select the appropriate model. Train and tune the model using the data you’ve just prepped.
+    - The model development phase should be driven by measurable goals established in earlier phases, not just experimentation for its own sake.
+ 
+  - Model Evaluation
+    - Evaluate the model against business and technical criteria. Does it perform reliably? Does it align with project goals?
+
+    - This is the phase where AI quality assurance plays a key role by evaluating performance, fairness, and alignment with a trustworthy AI framework.
+ 
+  - Model Operationalization
+-  
   
 
   
