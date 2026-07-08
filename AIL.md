@@ -45,6 +45,116 @@
 
 
 
+- Given the problem statement we just wrote, does this seem like a situation where AI could meaningfully help? Why or why not? 
+
+- Please evaluate using plain language. Consider: 
+    - Does the work require interpreting messy or unstructured information? 
+    - Does it require recognizing patterns, anomalies, or shifts over time? 
+    - Does it require anticipating what may happen next? 
+    - Could process improvements, policy changes, or existing tools address this without AI? 
+- End with a simple recommendation: 
+- “AI likely belongs./AI likely doesn’t belong./It’s uncertain whether AI belongs—more discovery required.” 
+- Explain your reasoning briefly without proposing solutions or naming tools. 
+
+- If the LLM is saying that AI doesn’t belong ...  
+    - If AI doesn’t add value, what approaches might address the problem more effectively?
+
+- If the LLM is uncertain if AI adds value ... 
+    - List five to seven discovery questions that would help us decide whether AI adds value here.
+
+- Prompt 03
+- Based on my problem statement, which of the seven AI patterns from PMI fit best and why? Reference the attached reference guide that details the seven patterns. (Remember to attach the downloaded reference guide.)
+- Please: 
+    - Identify all relevant patterns and justify plainly 
+    - Explain how multiple patterns work together if more than one applies 
+    - Briefly state why other patterns are less applicable here 
+    - Keep the language nontechnical
+ 
+- If the LLM’s suggested pattern doesn’t make sense ... 
+    - The pattern you suggested doesn’t seem to fit what I understand about this situation. Can you explain why you chose [Pattern X] and how it applies here?
+- If the LLM proposes a pattern you think is incorrect ... 
+    - I thought this situation might fit [Pattern Z] because [reason]. Can you walk me through what I might be missing?
+- If the LLM suggests combining patterns and you’re not sure why ... 
+    - Can you explain how [Pattern A] and [Pattern B] would work together in this situation, and what insight each would provide?
+
+
+- Prompt 04
+- Based on the AI pattern(s) we identified earlier, what kinds of data or information would this approach realistically need to work in my situation? 
+- Please focus only on high‑level information needs, not technical design.  
+
+- Use these lenses to guide your thinking: 
+
+    - Information type: What form the inputs take (e.g., natural language, historical trends, activity streams, individual characteristics) 
+    - Structure: Whether the information is mostly unstructured, semistructured, or structured 
+    - Source: Where this information would naturally come from in my environment 
+    - Quality: What level of clarity, consistency, or timeliness would matter 
+    - Volume: Whether this information needs a few examples or steady/large volumes over time 
+
+- Here is what I know about my situation so far: [Paste any information you have.] 
+- Using only this context, describe the kinds of information that would matter for the pattern(s) we selected—in plain language and without suggesting tools, pipelines, or technical solutions.
+
+- If you’re not sure whether certain information and data is actually necessary ... 
+    - From the list above, mark the “essential” versus “nice-to-have” information for a first conversation.
+
+- If you want to ask whether that essential information exists ... 
+    - Suggest five specific questions I should ask internally to confirm whether the essential information exists and is usable.
+
+- If the LLM responds with technical jargon/architecture/data engineering steps ... 
+    - Rewrite your response without any technical design, pipelines, architecture, schemas, or modeling steps. Focus only on the kinds of information the pattern depends on.
+
+- If the LLM overestimated the data needs ... 
+    - Help me identify the minimum information this pattern would need for a first conversation—not for system development but to think clearly about feasibility.
+
+- If you want to check for blind spots ... 
+    - Based on the pattern(s) we selected, what information might I be overlooking that could matter later?
+
+- Prompt 05
+- Based on the problem, pattern(s), and information needs we identified earlier, who should I communicate with to better understand this situation? 
+
+- Please recommend three to six people or perspectives. Focus on insight, not job titles.  
+
+- Think about people who: 
+
+    - Notice when activity changes 
+    
+    - Understand how similar situations unfolded in the past 
+    
+    - Interpret the information involved 
+    
+    - Perceive how shifts affect day-to-day work 
+
+    - Are directly affected by the problem 
+
+- For each person or perspective you name, provide: 
+
+    - A short reason their insight would help 
+
+    - Three practical questions I could ask them to learn more 
+
+
+- If the list feels too generic ... 
+    - Help me refine this list by identifying the one or two perspectives that likely would be most valuable for my specific situation.
+
+- If you don't know who to talk to next ... 
+    - Based on what you know about my situation, which person or perspective should I communicate with first, and why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
