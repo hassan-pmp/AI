@@ -100,7 +100,56 @@ Human judgment, ethics, business context, and oversight remain essential.
     - This is the phase where AI quality assurance plays a key role by evaluating performance, fairness, and alignment with a trustworthy AI framework.
  
   - Model Operationalization
+ 
+
+
+    
 -  Success doesn’t mean automation. It means noticing meaningful information earlier, responding more consistently, and using insight to support—not replace—decision-making.
+-  Act as a neutral thought partner. Your job is to help me clarify the real problem behind an “AI project” request.  
+
+- Do not propose solutions, name tools, or recommend any technical approaches. 
+
+- Here’s my role and context: 
+
+  - I am a/n [insert role/title] working in [team/department/industry]. 
+
+- Here’s what happened: 
+
+  - Who approached me: [insert] 
+  - What they asked for: [insert their exact words if possible] 
+  - What triggered the request: [insert factors that make this feel important right now] 
+  - What isn’t working today: [insert symptoms, pain points] 
+  - What we think needs to change: [insert potential solutions] 
+
+- Using ONLY the information above:
+  - Write a clear, plain-language problem statement in three to five sentences. 
+  - Focus on the problem itself, not solutions or assumptions about AI. 
+
+- If you find yourself describing solutions instead of the problem …  
+  - Help me focus only on the problem. Show me any solution language I used and rewrite the problem statement without it.
+
+
+- If your problem statement feels too vague or high level ... 
+  - Help me make this problem statement more specific. What details should I add or clarify so it’s easier to understand what’s actually happening?
+
+- If you’re not sure what the requester is really asking for ... 
+  - Based on what I shared, what might be unclear or assumed about this request? Help me identify what I should clarify with the person who asked for this.
+
+- If your situation involves several issues and you don’t know which one is “the problem” …  
+  - Help me identify the core problem. Which parts of what I described are symptoms, and which part is the underlying issue that everything else connects to?
+
+- If your draft turned into a long paragraph and you need something shorter …  
+  - Rewrite this as a clear, three-to-five-sentence problem statement that a nontechnical stakeholder would understand.
+
+- If you aren’t sure whether you included the right information …  
+  - Based on this draft, what key details might be missing that would help clarify the problem? List the top three to five questions I should ask myself or others.
+
+
+
+
+
+
+
 
 
 
