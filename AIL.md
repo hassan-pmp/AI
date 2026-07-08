@@ -140,6 +140,81 @@
 
 
 
+- Prompt 06
+- Based on my problem, the pattern(s) we selected, and the information we identified, help me consider feasibility, risks, and expectations—briefly and in plain language. 
+
+- 1) Feasibility 
+    - CAN: Given the pattern(s), what can this approach meaningfully support? 
+    - CAN’T: What remains challenging or ambiguous—and what needs human interpretation?     
+    - WON’T: What will this pattern never replace (e.g., judgment, accountability, cross-team coordination)? 
+
+- 2) Risks 
+    - Where could the pattern’s insights be misunderstood or overextended? 
+    - What simple steps keep those risks in check (without naming tools or designs)? 
+  
+- 3) Expectations and success 
+    - What expectations should be set early (including what the pattern supports versus what stays human)? 
+    - What’s a short, realistic description of success for this situation? 
+- Keep it concise. Don’t propose solutions, tools, or technical architectures.
+
+
+
+- If the feasibility section feels too generic ... 
+    - Make the CAN/CAN’T/WON’T sections more specific to the details of my situation. Provide two to three short bullets under each section.
+
+- If you want the LLM to help uncover blind spots ... 
+    - What might someone misunderstand about what this pattern can support in my situation? Help me surface any hidden assumptions.
+- If the risks section feels weak or overly abstract ... 
+    - Name the top two to three realistic risks for my context, and offer one simple way to reduce each risk—without naming tools or designing solutions.
+- If you want to check your thinking against a different angle ... 
+    - Given what we know, what’s one overly optimistic assumption I might be making—and one cautious assumption I should consider?
+- If expectations need sharpening ... 
+    - Help me rewrite the expectations section so it’s something I could communicate to a colleague in one minute or less.
+- If you want clarity on success criteria ... 
+- Give me two versions of what success looks like:  
+    - One for a nontechnical audience  
+    - One for someone familiar with our workflow 
+
+
+- Prompt 07
+- I want to reflect on what now feels clearer after working through the seven steps.  
+- Don’t create the clarity for me.  
+- Instead, ask me four to six short questions that help me articulate: 
+    - What I understand better now 
+    - What surprised me 
+    - What seems more realistic 
+    - What I feel more confident discussing 
+    - What still feels uncertain 
+- Present all questions at once so I can think through them together, after which I'll respond to each. 
+- If needed, ask follow-up questions to help me go a level deeper. 
+
+- Prompt
+    - Using only my own answers—not adding new information—summarize the top five to seven things that now feel clearer to me.
+
+- Prompt 08
+- Using everything in our conversation so far, help me create a summary I can use in early conversations.  
+
+- The purpose of this summary is to clearly explain how I’m thinking about the request—not to propose solutions or technical plans. 
+
+- Please include the following sections in plain language: 
+    - The problem (two to three sentences) 
+    - Whether AI belongs and why 
+    - The pattern(s) that fit(s) 
+    - The information that matters most 
+    - People/perspectives who can help clarify 
+    - Feasibility: CAN/CAN’T/WON’T 
+    - Risks and how to keep them in check 
+    - Expectations and what realistic success looks like 
+- Keep it concise and suitable to share with nontechnical stakeholders. 
+
+
+- If you need to tailor the summary for a specific audience ... 
+    - Rewrite this summary for [insert person/role/position/stakeholder here]. Keep it in plain language and focus on what that person would most need to understand about the problem and pattern(s), including what’s realistic to expect.
+
+- If you want to rehearse saying it aloud ... 
+    - Turn this into three short talking points that I could use to explain my thinking in a meeting.
+
+
 
 
 
