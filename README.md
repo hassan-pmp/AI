@@ -4,8 +4,7 @@
 * **☐ Complete Google Cloud Generative AI Leader certification**
 * **☐ Complete Google Cloud Generative AI Engineer certification**
 * **☐ Publish 100 AI learning notes on GitHub**
-* **☐ Publish an IEEE Computer Society article on AI**
-* **☐ Publish 2 high-impact research papers on AI**
+* **☐ Publish an high-impact research papers on AI**
 * **☐ Write a book on AI, leadership, and project management**
 ## These are so *Important*
 * Sharing is Caring.
